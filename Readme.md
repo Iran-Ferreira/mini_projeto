@@ -1,0 +1,1 @@
+Olá, esse mini projeto foi a nota do meu 3 e 4 bimestre. 
